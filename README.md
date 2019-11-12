@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/scivision/skyfield-examaples/workflows/ci/badge.svg)](https://github.com/scivision/skyfield-examples/actions)
+[![Actions Status](https://github.com/scivision/skyfield-examples/workflows/ci/badge.svg)](https://github.com/scivision/skyfield-examples/actions)
 
 
 # Skyfield examples
